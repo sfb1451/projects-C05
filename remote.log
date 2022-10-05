@@ -1,1 +1,2 @@
 75d60c1f-58a8-4f78-bbb8-4c7140726994 encryption=none exporttree=yes name=C05_DataLad_Sciebo-storage type=webdav url=https://uni-koeln.sciebo.de/remote.php/dav/files/vwunderl%40uni-koeln.de/ timestamp=1664981346.424026s
+ddf8a251-db56-4b52-8c0b-ce9bd22195ca encryption=none exporttree=no name=C05_Datalad_Sciebo-storage type=webdav url=https://uni-koeln.sciebo.de/remote.php/dav/files/vwunderl%40uni-koeln.de/C05/ timestamp=1664981602.305712s
