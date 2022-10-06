@@ -1,0 +1,162 @@
+TY  - JOUR
+TI  - Recovered grasping performance after stroke depends on interhemispheric frontoparietal connectivity
+AU  - Hensel, Lukas
+AU  - Lange, Fabian
+AU  - Tscherpel, Caroline
+AU  - Viswanathan, Shivakumar
+AU  - Freytag, Jana
+AU  - Volz, Lukas J.
+AU  - Eickhoff, Simon B.
+AU  - Fink, Gereon R.
+AU  - Grefkes, Christian
+T2  - Brain: A Journal of Neurology
+AB  - Activity changes in the ipsi- and contralesional parietal cortex and abnormal interhemispheric connectivity between these regions are commonly observed after stroke, however, their significance for motor recovery remains poorly understood. We here assessed the contribution of ipsilesional and contralesional anterior intraparietal cortex (aIPS) for hand motor function in eighteen recovered chronic stroke patients and eighteen healthy controls using a multimodal assessment consisting of resting-state fMRI, motor task fMRI, online-rTMS interference, and 3-D movement kinematics. Effects were compared against two control stimulation sites, i.e., contralesional M1 and a sham stimulation condition. We found that patients with good motor outcome compared to patients with more substantial residual deficits featured increased resting-state connectivity between ipsilesional aIPS and contralesional aIPS as well as between ipsilesional aIPS and dorsal premotor cortex. Moreover, interhemispheric connectivity between ipsilesional M1 and contralesional M1 as well as ipsilesional aIPS and contralesional M1 correlated with better motor performance across tasks. TMS interference at individual aIPS and M1 coordinates led to differential effects depending on the motor task that was tested, i.e., index finger-tapping, rapid pointing movements, or a reach-grasp-lift task. Interfering with contralesional aIPS deteriorated the accuracy of grasping, especially in patients featuring higher connectivity between ipsi- and contralesional aIPS. In contrast, interference with the contralesional M1 led to impaired grasping speed in patients featuring higher connectivity between bilateral M1. These findings suggest differential roles of contralesional M1 and aIPS for distinct aspects of recovered hand motor function, depending on the reorganization of interhemispheric connectivity.
+DA  - 2022/04/29/
+PY  - 2022
+DO  - 10.1093/brain/awac157
+DP  - PubMed
+SP  - awac157
+J2  - Brain
+LA  - eng
+SN  - 1460-2156
+L1  - files/877/Hensel et al. - 2022 - Recovered grasping performance after stroke depend.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/35485480
+KW  - intraparietal sulcus
+KW  - kinematics
+KW  - motor recovery
+KW  - resting-state fMRI
+KW  - rTMS
+ER  - 
+
+TY  - JOUR
+TI  - Early motor network connectivity after stroke: An interplay of general reorganization and state-specific compensation
+AU  - Paul, Theresa
+AU  - Hensel, Lukas
+AU  - Rehme, Anne K.
+AU  - Tscherpel, Caroline
+AU  - Eickhoff, Simon B.
+AU  - Fink, Gereon R.
+AU  - Grefkes, Christian
+AU  - Volz, Lukas J.
+T2  - Human Brain Mapping
+AB  - Motor recovery after stroke relies on functional reorganization of the motor network, which is commonly assessed via functional magnetic resonance imaging (fMRI)-based resting-state functional connectivity (rsFC) or task-related effective connectivity (trEC). Measures of either connectivity mode have been shown to successfully explain motor impairment post-stroke, posing the question whether motor impairment is more closely reflected by rsFC or trEC. Moreover, highly similar changes in ipsilesional and interhemispheric motor network connectivity have been reported for both rsFC and trEC after stroke, suggesting that altered rsFC and trEC may capture similar aspects of information integration in the motor network reflecting principle, state-independent mechanisms of network reorganization rather than state-specific compensation strategies. To address this question, we conducted the first direct comparison of rsFC and trEC in a sample of early subacute stroke patients (n = 26, included on average 7.3 days post-stroke). We found that both rsFC and trEC explained motor impairment across patients, stressing the clinical potential of fMRI-based connectivity. Importantly, intrahemispheric connectivity between ipsilesional M1 and premotor areas depended on the activation state, whereas interhemispheric connectivity between homologs was state-independent. From a mechanistic perspective, our results may thus arise from two distinct aspects of motor network plasticity: task-specific compensation within the ipsilesional hemisphere and a more fundamental form of reorganization between hemispheres.
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.1002/hbm.25612
+DP  - PubMed
+VL  - 42
+IS  - 16
+SP  - 5230
+EP  - 5243
+J2  - Hum Brain Mapp
+LA  - eng
+SN  - 1097-0193
+ST  - Early motor network connectivity after stroke
+L1  - files/880/Paul et al. - 2021 - Early motor network connectivity after stroke An .pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34346531
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - brain network connectivity
+KW  - Connectome
+KW  - dynamic causal modeling (DCM)
+KW  - Female
+KW  - Humans
+KW  - ischemic stroke
+KW  - Ischemic Stroke
+KW  - Magnetic Resonance Imaging
+KW  - Male
+KW  - Middle Aged
+KW  - Motor Cortex
+KW  - motor network reorganization
+KW  - Nerve Net
+KW  - Neuronal Plasticity
+KW  - resting-state fMRI
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic connectivity predicts acute motor impairment and recovery post-stroke
+AU  - Bonkhoff, Anna K.
+AU  - Rehme, Anne K.
+AU  - Hensel, Lukas
+AU  - Tscherpel, Caroline
+AU  - Volz, Lukas J.
+AU  - Espinoza, Flor A.
+AU  - Gazula, Harshvardhan
+AU  - Vergara, Victor M.
+AU  - Fink, Gereon R.
+AU  - Calhoun, Vince D.
+AU  - Rost, Natalia S.
+AU  - Grefkes, Christian
+T2  - Brain Communications
+AB  - Thorough assessment of cerebral dysfunction after acute lesions is paramount to optimize predicting clinical outcomes. We here built random forest classifier-based prediction models of acute motor impairment and recovery post-stroke. Predictions relied on structural and resting-state fMRI data from 54 stroke patients scanned within the first days of symptom onset. Functional connectivity was estimated via static and dynamic approaches. Motor performance was phenotyped in the acute phase and 6 months later. A model based on the time spent in specific dynamic connectivity configurations achieved the best discrimination between patients with and without motor impairments (out-of-sample area under the curve, 95% confidence interval: 0.67 ± 0.01). In contrast, patients with moderate-to-severe impairments could be differentiated from patients with mild deficits using a model based on the variability of dynamic connectivity (0.83 ± 0.01). Here, the variability of the connectivity between ipsilesional sensorimotor cortex and putamen discriminated the most between patients. Finally, motor recovery was best predicted by the time spent in specific connectivity configurations (0.89 ± 0.01) in combination with the initial impairment. Here, better recovery was linked to a shorter time spent in a functionally integrated configuration. Dynamic connectivity-derived parameters constitute potent predictors of acute impairment and recovery, which, in the future, might inform personalized therapy regimens to promote stroke recovery.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1093/braincomms/fcab227
+DP  - PubMed
+VL  - 3
+IS  - 4
+SP  - fcab227
+J2  - Brain Commun
+LA  - eng
+SN  - 2632-1297
+L1  - files/883/Bonkhoff et al. - 2021 - Dynamic connectivity predicts acute motor impairme.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34778761
+KW  - dynamic functional network connectivity
+KW  - ischemic stroke
+KW  - precision medicine
+KW  - recovery post-stroke
+KW  - upper limb motor impairment
+ER  - 
+
+TY  - JOUR
+TI  - Connectivity-Related Roles of Contralesional Brain Regions for Motor Performance Early after Stroke
+AU  - Hensel, Lukas
+AU  - Tscherpel, Caroline
+AU  - Freytag, Jana
+AU  - Ritter, Stella
+AU  - Rehme, Anne K.
+AU  - Volz, Lukas J.
+AU  - Eickhoff, Simon B.
+AU  - Fink, Gereon R.
+AU  - Grefkes, Christian
+T2  - Cerebral Cortex (New York, N.Y.: 1991)
+AB  - Hemiparesis after stroke is associated with increased neural activity not only in the lesioned but also in the contralesional hemisphere. While most studies have focused on the role of contralesional primary motor cortex (M1) activity for motor performance, data on other areas within the unaffected hemisphere are scarce, especially early after stroke. We here combined functional magnetic resonance imaging (fMRI) and transcranial magnetic stimulation (TMS) to elucidate the contribution of contralesional M1, dorsal premotor cortex (dPMC), and anterior intraparietal sulcus (aIPS) for the stroke-affected hand within the first 10 days after stroke. We used "online" TMS to interfere with neural activity at subject-specific fMRI coordinates while recording 3D movement kinematics. Interfering with aIPS activity improved tapping performance in patients, but not healthy controls, suggesting a maladaptive role of this region early poststroke. Analyzing effective connectivity parameters using a Lasso prediction model revealed that behavioral TMS effects were predicted by the coupling of the stimulated aIPS with dPMC and ipsilesional M1. In conclusion, we found a strong link between patterns of frontoparietal connectivity and TMS effects, indicating a detrimental influence of the contralesional aIPS on motor performance early after stroke.
+DA  - 2021/01/05/
+PY  - 2021
+DO  - 10.1093/cercor/bhaa270
+DP  - PubMed
+VL  - 31
+IS  - 2
+SP  - 993
+EP  - 1007
+J2  - Cereb Cortex
+LA  - eng
+SN  - 1460-2199
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/32995880
+KW  - Aged
+KW  - Aged, 80 and over
+KW  - Biomechanical Phenomena
+KW  - Cross-Over Studies
+KW  - DCM
+KW  - diaschisis
+KW  - Female
+KW  - Functional Laterality
+KW  - Humans
+KW  - kinematics
+KW  - Magnetic Resonance Imaging
+KW  - Male
+KW  - Middle Aged
+KW  - Motor Cortex
+KW  - motor network
+KW  - Neural Pathways
+KW  - Paresis
+KW  - Parietal Lobe
+KW  - Psychomotor Performance
+KW  - recovery
+KW  - Recovery of Function
+KW  - Single-Blind Method
+KW  - Stroke
+KW  - Stroke Rehabilitation
+KW  - Transcranial Magnetic Stimulation
+ER  - 
+
