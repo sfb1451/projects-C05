@@ -1,0 +1,378 @@
+TY  - JOUR
+TI  - Recovered grasping performance after stroke depends on interhemispheric frontoparietal connectivity
+AU  - Hensel, Lukas
+AU  - Lange, Fabian
+AU  - Tscherpel, Caroline
+AU  - Viswanathan, Shivakumar
+AU  - Freytag, Jana
+AU  - Volz, Lukas J.
+AU  - Eickhoff, Simon B.
+AU  - Fink, Gereon R.
+AU  - Grefkes, Christian
+T2  - Brain: A Journal of Neurology
+AB  - Activity changes in the ipsi- and contralesional parietal cortex and abnormal interhemispheric connectivity between these regions are commonly observed after stroke, however, their significance for motor recovery remains poorly understood. We here assessed the contribution of ipsilesional and contralesional anterior intraparietal cortex (aIPS) for hand motor function in eighteen recovered chronic stroke patients and eighteen healthy controls using a multimodal assessment consisting of resting-state fMRI, motor task fMRI, online-rTMS interference, and 3-D movement kinematics. Effects were compared against two control stimulation sites, i.e., contralesional M1 and a sham stimulation condition. We found that patients with good motor outcome compared to patients with more substantial residual deficits featured increased resting-state connectivity between ipsilesional aIPS and contralesional aIPS as well as between ipsilesional aIPS and dorsal premotor cortex. Moreover, interhemispheric connectivity between ipsilesional M1 and contralesional M1 as well as ipsilesional aIPS and contralesional M1 correlated with better motor performance across tasks. TMS interference at individual aIPS and M1 coordinates led to differential effects depending on the motor task that was tested, i.e., index finger-tapping, rapid pointing movements, or a reach-grasp-lift task. Interfering with contralesional aIPS deteriorated the accuracy of grasping, especially in patients featuring higher connectivity between ipsi- and contralesional aIPS. In contrast, interference with the contralesional M1 led to impaired grasping speed in patients featuring higher connectivity between bilateral M1. These findings suggest differential roles of contralesional M1 and aIPS for distinct aspects of recovered hand motor function, depending on the reorganization of interhemispheric connectivity.
+DA  - 2022/04/29/
+PY  - 2022
+DO  - 10.1093/brain/awac157
+DP  - PubMed
+SP  - awac157
+J2  - Brain
+LA  - eng
+SN  - 1460-2156
+L1  - files/877/Hensel et al. - 2022 - Recovered grasping performance after stroke depend.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/35485480
+KW  - kinematics
+KW  - motor recovery
+KW  - resting-state fMRI
+KW  - rTMS
+KW  - intraparietal sulcus
+ER  - 
+
+TY  - JOUR
+TI  - Early motor network connectivity after stroke: An interplay of general reorganization and state-specific compensation
+AU  - Paul, Theresa
+AU  - Hensel, Lukas
+AU  - Rehme, Anne K.
+AU  - Tscherpel, Caroline
+AU  - Eickhoff, Simon B.
+AU  - Fink, Gereon R.
+AU  - Grefkes, Christian
+AU  - Volz, Lukas J.
+T2  - Human Brain Mapping
+AB  - Motor recovery after stroke relies on functional reorganization of the motor network, which is commonly assessed via functional magnetic resonance imaging (fMRI)-based resting-state functional connectivity (rsFC) or task-related effective connectivity (trEC). Measures of either connectivity mode have been shown to successfully explain motor impairment post-stroke, posing the question whether motor impairment is more closely reflected by rsFC or trEC. Moreover, highly similar changes in ipsilesional and interhemispheric motor network connectivity have been reported for both rsFC and trEC after stroke, suggesting that altered rsFC and trEC may capture similar aspects of information integration in the motor network reflecting principle, state-independent mechanisms of network reorganization rather than state-specific compensation strategies. To address this question, we conducted the first direct comparison of rsFC and trEC in a sample of early subacute stroke patients (n = 26, included on average 7.3 days post-stroke). We found that both rsFC and trEC explained motor impairment across patients, stressing the clinical potential of fMRI-based connectivity. Importantly, intrahemispheric connectivity between ipsilesional M1 and premotor areas depended on the activation state, whereas interhemispheric connectivity between homologs was state-independent. From a mechanistic perspective, our results may thus arise from two distinct aspects of motor network plasticity: task-specific compensation within the ipsilesional hemisphere and a more fundamental form of reorganization between hemispheres.
+DA  - 2021/11//
+PY  - 2021
+DO  - 10.1002/hbm.25612
+DP  - PubMed
+VL  - 42
+IS  - 16
+SP  - 5230
+EP  - 5243
+J2  - Hum Brain Mapp
+LA  - eng
+SN  - 1097-0193
+ST  - Early motor network connectivity after stroke
+L1  - files/880/Paul et al. - 2021 - Early motor network connectivity after stroke An .pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34346531
+KW  - Aged
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Motor Cortex
+KW  - Nerve Net
+KW  - Neuronal Plasticity
+KW  - Aged, 80 and over
+KW  - Connectome
+KW  - resting-state fMRI
+KW  - Ischemic Stroke
+KW  - ischemic stroke
+KW  - brain network connectivity
+KW  - dynamic causal modeling (DCM)
+KW  - motor network reorganization
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic connectivity predicts acute motor impairment and recovery post-stroke
+AU  - Bonkhoff, Anna K.
+AU  - Rehme, Anne K.
+AU  - Hensel, Lukas
+AU  - Tscherpel, Caroline
+AU  - Volz, Lukas J.
+AU  - Espinoza, Flor A.
+AU  - Gazula, Harshvardhan
+AU  - Vergara, Victor M.
+AU  - Fink, Gereon R.
+AU  - Calhoun, Vince D.
+AU  - Rost, Natalia S.
+AU  - Grefkes, Christian
+T2  - Brain Communications
+AB  - Thorough assessment of cerebral dysfunction after acute lesions is paramount to optimize predicting clinical outcomes. We here built random forest classifier-based prediction models of acute motor impairment and recovery post-stroke. Predictions relied on structural and resting-state fMRI data from 54 stroke patients scanned within the first days of symptom onset. Functional connectivity was estimated via static and dynamic approaches. Motor performance was phenotyped in the acute phase and 6 months later. A model based on the time spent in specific dynamic connectivity configurations achieved the best discrimination between patients with and without motor impairments (out-of-sample area under the curve, 95% confidence interval: 0.67 ± 0.01). In contrast, patients with moderate-to-severe impairments could be differentiated from patients with mild deficits using a model based on the variability of dynamic connectivity (0.83 ± 0.01). Here, the variability of the connectivity between ipsilesional sensorimotor cortex and putamen discriminated the most between patients. Finally, motor recovery was best predicted by the time spent in specific connectivity configurations (0.89 ± 0.01) in combination with the initial impairment. Here, better recovery was linked to a shorter time spent in a functionally integrated configuration. Dynamic connectivity-derived parameters constitute potent predictors of acute impairment and recovery, which, in the future, might inform personalized therapy regimens to promote stroke recovery.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1093/braincomms/fcab227
+DP  - PubMed
+VL  - 3
+IS  - 4
+SP  - fcab227
+J2  - Brain Commun
+LA  - eng
+SN  - 2632-1297
+L1  - files/883/Bonkhoff et al. - 2021 - Dynamic connectivity predicts acute motor impairme.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34778761
+KW  - dynamic functional network connectivity
+KW  - ischemic stroke
+KW  - precision medicine
+KW  - recovery post-stroke
+KW  - upper limb motor impairment
+ER  - 
+
+TY  - JOUR
+TI  - Connectivity-Related Roles of Contralesional Brain Regions for Motor Performance Early after Stroke
+AU  - Hensel, Lukas
+AU  - Tscherpel, Caroline
+AU  - Freytag, Jana
+AU  - Ritter, Stella
+AU  - Rehme, Anne K.
+AU  - Volz, Lukas J.
+AU  - Eickhoff, Simon B.
+AU  - Fink, Gereon R.
+AU  - Grefkes, Christian
+T2  - Cerebral Cortex (New York, N.Y.: 1991)
+AB  - Hemiparesis after stroke is associated with increased neural activity not only in the lesioned but also in the contralesional hemisphere. While most studies have focused on the role of contralesional primary motor cortex (M1) activity for motor performance, data on other areas within the unaffected hemisphere are scarce, especially early after stroke. We here combined functional magnetic resonance imaging (fMRI) and transcranial magnetic stimulation (TMS) to elucidate the contribution of contralesional M1, dorsal premotor cortex (dPMC), and anterior intraparietal sulcus (aIPS) for the stroke-affected hand within the first 10 days after stroke. We used "online" TMS to interfere with neural activity at subject-specific fMRI coordinates while recording 3D movement kinematics. Interfering with aIPS activity improved tapping performance in patients, but not healthy controls, suggesting a maladaptive role of this region early poststroke. Analyzing effective connectivity parameters using a Lasso prediction model revealed that behavioral TMS effects were predicted by the coupling of the stimulated aIPS with dPMC and ipsilesional M1. In conclusion, we found a strong link between patterns of frontoparietal connectivity and TMS effects, indicating a detrimental influence of the contralesional aIPS on motor performance early after stroke.
+DA  - 2021/01/05/
+PY  - 2021
+DO  - 10.1093/cercor/bhaa270
+DP  - PubMed
+VL  - 31
+IS  - 2
+SP  - 993
+EP  - 1007
+J2  - Cereb Cortex
+LA  - eng
+SN  - 1460-2199
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/32995880
+KW  - Aged
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Stroke
+KW  - Functional Laterality
+KW  - Magnetic Resonance Imaging
+KW  - Middle Aged
+KW  - Motor Cortex
+KW  - Recovery of Function
+KW  - Neural Pathways
+KW  - Stroke Rehabilitation
+KW  - Transcranial Magnetic Stimulation
+KW  - Psychomotor Performance
+KW  - Aged, 80 and over
+KW  - DCM
+KW  - diaschisis
+KW  - kinematics
+KW  - motor network
+KW  - recovery
+KW  - Biomechanical Phenomena
+KW  - Paresis
+KW  - Parietal Lobe
+KW  - Cross-Over Studies
+KW  - Single-Blind Method
+ER  - 
+
+TY  - JOUR
+TI  - Development and Validation of Prediction Models for Severe Complications After Acute Ischemic Stroke: A Study Based on the Stroke Registry of Northwestern Germany
+AU  - Bonkhoff, Anna K.
+AU  - Rübsamen, Nicole
+AU  - Grefkes, Christian
+AU  - Rost, Natalia S.
+AU  - Berger, Klaus
+AU  - Karch, André
+T2  - Journal of the American Heart Association
+AB  - Background The treatment of stroke has been undergoing rapid changes. As treatment options progress, prediction of those under risk for complications becomes more important. Available models have, however, frequently been built based on data no longer representative of today's care, in particular with respect to acute stroke management. Our aim was to build and validate prediction models for 4 clinically important, severe outcomes after stroke. Methods and Results We used German registry data from 152 710 patients with acute ischemic stroke obtained in 2016 (development) and 2017 (validation). We took into account potential predictors that were available at admission and focused on in-hospital mortality, intracranial mass effect, secondary intracerebral hemorrhage, and deep vein thrombosis as outcomes. Validation cohort prediction and calibration performances were assessed using the following 4 statistical approaches: logistic regression with backward selection, l1-regularized logistic regression, k-nearest neighbor, and gradient boosting classifier. In-hospital mortality and intracranial mass effects could be predicted with high accuracy (both areas under the curve, 0.90 [95% CI, 0.90-0.90]), whereas the areas under the curve for intracerebral hemorrhage (0.80 [95% CI, 0.80-0.80]) and deep vein thrombosis (0.73 [95% CI, 0.73-0.73]) were considerably lower. Stroke severity was the overall most important predictor. Models based on gradient boosting achieved better performances than those based on logistic regression for all outcomes. However, area under the curve estimates differed by a maximum of 0.02. Conclusions We validated prediction models for 4 severe outcomes after acute ischemic stroke based on routinely collected, recent clinical data. Model performance was superior to previously proposed approaches. These predictions may help to identify patients at risk early after stroke and thus facilitate an individualized level of care.
+DA  - 2022/03/15/
+PY  - 2022
+DO  - 10.1161/JAHA.121.023175
+DP  - PubMed
+VL  - 11
+IS  - 6
+SP  - e023175
+J2  - J Am Heart Assoc
+LA  - eng
+SN  - 2047-9980
+ST  - Development and Validation of Prediction Models for Severe Complications After Acute Ischemic Stroke
+L1  - files/1029/Bonkhoff et al. - 2022 - Development and Validation of Prediction Models fo.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/35253466
+KW  - Cerebral Hemorrhage
+KW  - Humans
+KW  - ischemic stroke
+KW  - Ischemic Stroke
+KW  - machine learning
+KW  - mortality
+KW  - prediction
+KW  - Registries
+KW  - severe outcomes
+KW  - Stroke
+KW  - Venous Thrombosis
+ER  - 
+
+TY  - JOUR
+TI  - Abnormal dynamic functional connectivity is linked to recovery after acute ischemic stroke
+AU  - Bonkhoff, Anna K.
+AU  - Schirmer, Markus D.
+AU  - Bretzner, Martin
+AU  - Etherton, Mark
+AU  - Donahue, Kathleen
+AU  - Tuozzo, Carissa
+AU  - Nardin, Marco
+AU  - Giese, Anne-Katrin
+AU  - Wu, Ona
+AU  - D Calhoun, Vince
+AU  - Grefkes, Christian
+AU  - Rost, Natalia S.
+T2  - Human Brain Mapping
+AB  - The aim of the current study was to explore the whole-brain dynamic functional connectivity patterns in acute ischemic stroke (AIS) patients and their relation to short and long-term stroke severity. We investigated resting-state functional MRI-based dynamic functional connectivity of 41 AIS patients two to five days after symptom onset. Re-occurring dynamic connectivity configurations were obtained using a sliding window approach and k-means clustering. We evaluated differences in dynamic patterns between three NIHSS-stroke severity defined groups (mildly, moderately, and severely affected patients). Furthermore, we built Bayesian hierarchical models to evaluate the predictive capacity of dynamic connectivity and examine the interrelation with clinical measures, such as white matter hyperintensity lesions. Finally, we established correlation analyses between dynamic connectivity and AIS severity as well as 90-day neurological recovery (ΔNIHSS). We identified three distinct dynamic connectivity configurations acutely post-stroke. More severely affected patients spent significantly more time in a configuration that was characterized by particularly strong connectivity and isolated processing of functional brain domains (three-level ANOVA: p < .05, post hoc t tests: p < .05, FDR-corrected). Configuration-specific time estimates possessed predictive capacity of stroke severity in addition to the one of clinical measures. Recovery, as indexed by the realized change of the NIHSS over time, was significantly linked to the dynamic connectivity between bilateral intraparietal lobule and left angular gyrus (Pearson's r = -.68, p = .003, FDR-corrected). Our findings demonstrate transiently increased isolated information processing in multiple functional domains in case of severe AIS. Dynamic connectivity involving default mode network components significantly correlated with recovery in the first 3 months poststroke.
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1002/hbm.25366
+DP  - PubMed
+VL  - 42
+IS  - 7
+SP  - 2278
+EP  - 2291
+J2  - Hum Brain Mapp
+LA  - eng
+SN  - 1097-0193
+L1  - files/1037/Bonkhoff et al. - 2021 - Abnormal dynamic functional connectivity is linked.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/33650754
+KW  - Aged
+KW  - Bayesian hierarchical modeling
+KW  - Connectome
+KW  - dynamic functional network connectivity
+KW  - Female
+KW  - Humans
+KW  - ischemic stroke
+KW  - Ischemic Stroke
+KW  - Magnetic Resonance Imaging
+KW  - Male
+KW  - Middle Aged
+KW  - Outcome Assessment, Health Care
+KW  - Recovery of Function
+KW  - Severity of Illness Index
+KW  - stroke recovery
+KW  - stroke severity
+ER  - 
+
+TY  - JOUR
+TI  - Simultaneous modeling of reaction times and brain dynamics in a spatial cueing task
+AU  - Steinkamp, Simon R.
+AU  - Fink, Gereon R.
+AU  - Vossel, Simone
+AU  - Weidner, Ralph
+T2  - Human Brain Mapping
+AB  - Understanding how brain activity translates into behavior is a grand challenge in neuroscientific research. Simultaneous computational modeling of both measures offers to address this question. The extension of the dynamic causal modeling (DCM) framework for blood oxygenation level-dependent (BOLD) responses to behavior (bDCM) constitutes such a modeling approach. However, only very few studies have employed and evaluated bDCM, and its application has been restricted to binary behavioral responses, limiting more general statements about its validity. This study used bDCM to model reaction times in a spatial attention task, which involved two separate runs with either horizontal or vertical stimulus configurations. We recorded fMRI data and reaction times (n= 26) and compared bDCM with classical DCM and a behavioral Rescorla-Wagner model using Bayesian model selection and goodness of fit statistics. Results indicate that bDCM performed equally well as classical DCM when modeling BOLD responses and as good as the Rescorla-Wagner model when modeling reaction times. Although our data revealed practical limitations of the current bDCM approach that warrant further investigation, we conclude that bDCM constitutes a promising method for investigating the link between brain activity and behavior.
+DA  - 2022/04/15/
+PY  - 2022
+DO  - 10.1002/hbm.25758
+DP  - PubMed
+VL  - 43
+IS  - 6
+SP  - 1850
+EP  - 1867
+J2  - Hum Brain Mapp
+LA  - eng
+SN  - 1097-0193
+L1  - files/1040/Steinkamp et al. - 2022 - Simultaneous modeling of reaction times and brain .pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34953009
+KW  - Bayes Theorem
+KW  - behavioral
+KW  - Brain
+KW  - Brain Mapping
+KW  - dynamic causal modeling
+KW  - effective connectivity
+KW  - fMRI
+KW  - Humans
+KW  - Models, Neurological
+KW  - Reaction Time
+KW  - simultaneous modeling
+KW  - spatial attention
+ER  - 
+
+TY  - JOUR
+TI  - Combined TMS-fMRI Reveals Behavior-Dependent Network Effects of Right Temporoparietal Junction Neurostimulation in an Attentional Belief Updating Task
+AU  - Mengotti, Paola
+AU  - Käsbauer, Anne-Sophie
+AU  - Fink, Gereon R.
+AU  - Vossel, Simone
+T2  - Cerebral Cortex (New York, N.Y.: 1991)
+AB  - Updating beliefs after unexpected events is fundamental for an optimal adaptation to the environment. Previous findings suggested a causal involvement of the right temporoparietal junction (rTPJ) in belief updating in an attention task. We combined offline continuous theta-burst stimulation (cTBS) over rTPJ with functional magnetic resonance imaging (fMRI) to investigate local and remote stimulation effects within the attention and salience networks. In a sham-controlled, within-subject crossover design, 25 participants performed an attentional cueing task during fMRI with true or false information about cue predictability. By estimating learning rates from response times, we characterized participants' belief updating. Model-derived cue predictability entered the fMRI analysis as a parametric regressor to identify the neural correlates of updating. rTPJ-cTBS effects showed high interindividual variability. The expected learning rate reduction with false cue predictability information by cTBS was only observed in participants showing higher updating in false than in true blocks after sham. cTBS modulated the neural signatures of belief updating, both in rTPJ and in nodes of the attention and salience networks. The interindividual variability of the behavioral cTBS effect was related to differential activity and rTPJ connectivity of the right anterior insula. These results demonstrate a crucial interaction between ventral attention and salience networks for belief updating.
+DA  - 2022/01/28/
+PY  - 2022
+DO  - 10.1093/cercor/bhab511
+DP  - PubMed
+SP  - bhab511
+J2  - Cereb Cortex
+LA  - eng
+SN  - 1460-2199
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/35088068
+KW  - anterior insula
+KW  - attentional reorienting
+KW  - cue predictability
+KW  - salience network
+KW  - ventral attention network
+ER  - 
+
+TY  - JOUR
+TI  - Precision medicine in stroke: towards personalized outcome predictions using artificial intelligence
+AU  - Bonkhoff, Anna K.
+AU  - Grefkes, Christian
+T2  - Brain: A Journal of Neurology
+AB  - Stroke ranks among the leading causes for morbidity and mortality worldwide. New and continuously improving treatment options such as thrombolysis and thrombectomy have revolutionized acute stroke treatment in recent years. Following modern rhythms, the next revolution might well be the strategic use of the steadily increasing amounts of patient-related data for generating models enabling individualized outcome predictions. Milestones have already been achieved in several health care domains, as big data and artificial intelligence have entered everyday life. The aim of this review is to synoptically illustrate and discuss how artificial intelligence approaches may help to compute single-patient predictions in stroke outcome research in the acute, subacute and chronic stage. We will present approaches considering demographic, clinical and electrophysiological data, as well as data originating from various imaging modalities and combinations thereof. We will outline their advantages, disadvantages, their potential pitfalls and the promises they hold with a special focus on a clinical audience. Throughout the review we will highlight methodological aspects of novel machine-learning approaches as they are particularly crucial to realize precision medicine. We will finally provide an outlook on how artificial intelligence approaches might contribute to enhancing favourable outcomes after stroke.
+DA  - 2022/04/18/
+PY  - 2022
+DO  - 10.1093/brain/awab439
+DP  - PubMed
+VL  - 145
+IS  - 2
+SP  - 457
+EP  - 475
+J2  - Brain
+LA  - eng
+SN  - 1460-2156
+ST  - Precision medicine in stroke
+L1  - files/1045/Bonkhoff and Grefkes - 2022 - Precision medicine in stroke towards personalized.pdf
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34918041
+KW  - Artificial Intelligence
+KW  - big data
+KW  - Humans
+KW  - Machine Learning
+KW  - outcome
+KW  - Precision Medicine
+KW  - precision medicine: machine learning
+KW  - Prognosis
+KW  - Stroke
+KW  - stroke recovery
+ER  - 
+
+TY  - JOUR
+TI  - Recovery after stroke: the severely impaired are a distinct group
+AU  - Bonkhoff, Anna K.
+AU  - Hope, Tom
+AU  - Bzdok, Danilo
+AU  - Guggisberg, Adrian G.
+AU  - Hawe, Rachel L.
+AU  - Dukelow, Sean P.
+AU  - Chollet, François
+AU  - Lin, David J.
+AU  - Grefkes, Christian
+AU  - Bowman, Howard
+T2  - Journal of Neurology, Neurosurgery, and Psychiatry
+AB  - INTRODUCTION: Stroke causes different levels of impairment and the degree of recovery varies greatly between patients. The majority of recovery studies are biased towards patients with mild-to-moderate impairments, challenging a unified recovery process framework. Our aim was to develop a statistical framework to analyse recovery patterns in patients with severe and non-severe initial impairment and concurrently investigate whether they recovered differently.
+METHODS: We designed a Bayesian hierarchical model to estimate 3-6 months upper limb Fugl-Meyer (FM) scores after stroke. When focusing on the explanation of recovery patterns, we addressed confounds affecting previous recovery studies and considered patients with FM-initial scores <45 only. We systematically explored different FM-breakpoints between severe/non-severe patients (FM-initial=5-30). In model comparisons, we evaluated whether impairment-level-specific recovery patterns indeed existed. Finally, we estimated the out-of-sample prediction performance for patients across the entire initial impairment range.
+RESULTS: Recovery data was assembled from eight patient cohorts (n=489). Data were best modelled by incorporating two subgroups (breakpoint: FM-initial=10). Both subgroups recovered a comparable constant amount, but with different proportional components: severely affected patients recovered more the smaller their impairment, while non-severely affected patients recovered more the larger their initial impairment. Prediction of 3-6 months outcomes could be done with an R2=63.5% (95% CI=51.4% to 75.5%).
+CONCLUSIONS: Our work highlights the benefit of simultaneously modelling recovery of severely-to-non-severely impaired patients and demonstrates both shared and distinct recovery patterns. Our findings provide evidence that the severe/non-severe subdivision in recovery modelling is not an artefact of previous confounds. The presented out-of-sample prediction performance may serve as benchmark to evaluate promising biomarkers of stroke recovery.
+DA  - 2022/04//
+PY  - 2022
+DO  - 10.1136/jnnp-2021-327211
+DP  - PubMed
+VL  - 93
+IS  - 4
+SP  - 369
+EP  - 378
+J2  - J Neurol Neurosurg Psychiatry
+LA  - eng
+SN  - 1468-330X
+ST  - Recovery after stroke
+L2  - http://www.ncbi.nlm.nih.gov/pubmed/34937750
+KW  - Bayes Theorem
+KW  - cerebrovascular disease
+KW  - Humans
+KW  - Recovery of Function
+KW  - rehabilitation
+KW  - statistics
+KW  - stroke
+KW  - Stroke
+KW  - Stroke Rehabilitation
+KW  - Upper Extremity
+ER  - 
+
