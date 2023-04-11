@@ -1,80 +1,22 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
-cff-version: 1.2.0
-title: >-
-  Reorganisation of the motor system following
-  stroke 
-message: This is our project description
-type: dataset
+abstract: Functional MRI, simultaneous TMS-EEG recordings, and online-TMS interference
+  with focal brain activity will be used as a multimodal readout of premotor and primary
+  motor cortex function in stroke patients suffering from motor deficits. The project
+  will serve to clarify the role of these areas for motor function and recovery of
+  individual patients with different degrees of impairment. Further, individual response
+  profiles of regions in the fronto-parietal cortex will be linked to the effect of
+  neuromodulatory intervention using intermittent theta-burst rTMS, laying the ground
+  for an individualised treatment approach based on the individual functional network
+  pathology at a given time post stroke.
 authors:
-  - given-names: Christian
-    family-names: Grefkes
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany; Cognitive Neuroscience,
-      Institute of Neuroscience and Medicine (INM-3),
-      Research Centre Juelich, Germany.
-  - given-names: Gereon
-    family-names: Fink
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany; Cognitive Neuroscience,
-      Institute of Neuroscience and Medicine (INM-3),
-      Research Centre Juelich, Germany.
-  - given-names: Caroline
-    family-names: Tscherpel
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany; Cognitive Neuroscience,
-      Institute of Neuroscience and Medicine (INM-3),
-      Research Centre Juelich, Germany.
-  - given-names: Veronika
-    family-names: Wunderle
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany.
-  - given-names: Maike
-    family-names: Mustin
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany.
-  - given-names: Lea
-    family-names: Mais
-    affiliation: >-
-      Cognitive Neuroscience, Institute of
-      Neuroscience and Medicine (INM-3), Research
-      Centre Juelich, Germany.
-  - given-names: Lukas
-    family-names: Volz
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany.
-  - given-names: Corinna
-    family-names: Ringmaier
-    affiliation: >-
-      Department of Neurology, Faculty of Medicine
-      and University Hospital Cologne, University of
-      Cologne, Germany.
-abstract: >-
-  Functional MRI, simultaneous TMS-EEG recordings,
-  and online-TMS interference with focal brain
-  activity will be used as a multimodal readout of
-  premotor and primary motor cortex function in
-  stroke patients suffering from motor deficits. The
-  project will serve to clarify the role of these
-  areas for motor function and recovery of individual
-  patients with different degrees of impairment.
-  Further, individual response profiles of regions in
-  the fronto-parietal cortex will be linked to the
-  effect of neuromodulatory intervention using
-  intermittent theta-burst rTMS, laying the ground
-  for an individualised treatment approach based on
-  the individual functional network pathology at a
-  given time post stroke.
+- {family-names: Grefkes, given-names: Christian}
+- {family-names: Fink, given-names: Gereon}
+- {family-names: Mais, given-names: Lea}
+- {family-names: Mustin, given-names: Maike}
+- {family-names: Ringmaier, given-names: Corinna}
+- {family-names: Tscherpel, given-names: Caroline}
+- {family-names: Volz, given-names: Lukas}
+- {family-names: Kuzu, given-names: Taylan}
+- {family-names: Günther, given-names: Jonas}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: Reorganisation of the motor system following stroke
